@@ -28,9 +28,11 @@
   
  /* fin de sign in */
 
- 
+  /* container validacion carrito*/
 
-
+  .container {
+    max-width: 960px;
+  }
 
 
 
