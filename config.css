@@ -32,7 +32,9 @@
     width: 50%; 
     height: auto;
   }
-
+.margen{
+  margin-left: 800px;
+}
 
 body {
     padding-top: 3rem;
