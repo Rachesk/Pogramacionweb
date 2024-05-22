@@ -264,3 +264,36 @@ body {
   padding: 10px;
   position:absolute;
   }
+
+/*CAMBIOS DIV FORM LOGIN*/
+.form-container_login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 450px;
+}
+
+.form-card_login {
+  padding: 2rem;
+  border: 1px solid ;
+  border-radius: 1rem;
+  background-color: #f1f1f1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 25%;
+}
+
+/*CAMBIOS DIV FORM REGISTER*/
+.form-container_register {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-card_register {
+  padding: 2rem;
+  border: 1px solid ;
+  border-radius: 1rem;
+  background-color: #f1f1f1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 25%;
+}
