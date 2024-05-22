@@ -41,8 +41,9 @@
     height: auto;
   }
 .margen{
-  margin-left: 800px;
+  margin-left: 700px;
 }
+
 
 body {
     padding-top: 3rem;
@@ -253,9 +254,9 @@ body {
   -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.3); 
   -moz-box-shadow: 0 0 10px rgba(0,0,0,0.3);
    -o-box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  background: red;
+  background: rgb(218, 121, 121);
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  color: #fff;
+  color:white;
   display: none; 
   font-size: 14px; 
   margin-top: -80px; 
