@@ -1,4 +1,4 @@
-/*VALIDAR CARRITO DE COMPRA*/
+/* VALIDAR CARRITO DE COMPRA */
 (() => {
   'use strict'
 
