@@ -1,5 +1,5 @@
 /*Funcion para mostrar/ocultar contraseña*/
-function togglePasswordVisibility() {
+function visibilidadPassword() {
     const passCampo = $("#password");
     const icono = $("#mostrarIcono");
     if (passCampo.attr("type") === "password") {
@@ -12,5 +12,5 @@ function togglePasswordVisibility() {
 }
 
 $(document).ready(function() {
-    $("#botonPassword").on('click', togglePasswordVisibility);
+    $("#botonPassword").on('click', visibilidadPassword);
 });

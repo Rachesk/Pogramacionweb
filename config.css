@@ -236,8 +236,8 @@ body {
 
 /* NAVBAR ACA*/
 .ico-logo {
-  width: 130px; /* Tamaño aumentado */
-  height: 45px; /* Tamaño aumentado */
+  width: 130px; 
+  height: 45px; 
 }
 
 .navbar-nav .nav-item {
@@ -245,7 +245,7 @@ body {
 }
 
 .navbar-nav {
-  flex-grow: 1; /* Permite que los nav-items ocupen el espacio disponible */
+  flex-grow: 1; 
 }
 
 @media (max-width: 768px) {
